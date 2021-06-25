@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashley
-- 👀 I’m interested in coding, baking, cycling, sand volleyball, and stand-up comedy.
+- 👀 I’m interested in coding, baking, cycling, and stand-up comedy.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on anything! I am a self-taught beginner and I am willing to learn from anyone.
 - 📫 Reach me on twitter @ashwodz
