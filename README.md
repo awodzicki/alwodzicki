@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashley
-- 📚 I enjoy creating digital content and taught myself HTML and CSS.
-- 👩🏻‍🏫 I am currently learning Javascript and React.
+- 👩🏻‍🏫 I am currently learning SQL and Tableau.
+- 📚 I also enjoy creating digital content using HTML and CSS.
 - 🤩 My hobbies include baking, cycling, and sand volleyball.
 - 💡 I'm open to collaboration and new ideas!
